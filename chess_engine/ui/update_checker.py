@@ -8,7 +8,7 @@ from PySide6.QtCore import QObject, QUrl, Signal
 from PySide6.QtNetwork import QNetworkAccessManager, QNetworkReply, QNetworkRequest
 
 
-RELEASES_API = "https://api.github.com/repos/DeepTactics-Developer/DeepTactics/releases/latest"
+RELEASES_API = "https://api.github.com/repos/DeepTactics-Developer/DeepTactics-Chess-Engine/releases/latest"
 
 
 class UpdateChecker(QObject):

@@ -2,7 +2,7 @@
 
 <img src="assets/icon/program_icon.png" width="96" alt="DeepTactics icon">
 
-# DeepTactics
+# DeepTactics Chess Engine
 
 **A chess engine with a native C++ search core, a self-play weight trainer, and a modern Qt desktop interface.**
 

@@ -2,7 +2,7 @@
 
 <img src="assets/icon/program_icon.png" width="96" alt="DeepTactics 아이콘">
 
-# DeepTactics
+# DeepTactics Chess Engine
 
 **네이티브 C++ 탐색 코어, 셀프플레이 가중치 학습기, 현대적인 Qt 데스크톱 인터페이스를 갖춘 체스 엔진**
 
