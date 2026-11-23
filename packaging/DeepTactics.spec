@@ -13,7 +13,7 @@ a = Analysis(
     datas=[(str(ROOT / "assets" / d), f"assets/{d}") for d in
            ("benchmarks", "i18n", "icon", "openings")],
     hiddenimports=HIDDEN,
-    excludes=["pygame", "tkinter", "pytest", "unittest", "chess", "numpy",
+    excludes=["tkinter", "pytest", "unittest", "chess", "numpy",
               "chess_engine.tests",
               "PySide6.QtWebEngineCore", "PySide6.QtQml", "PySide6.QtQuick", "PySide6.Qt3DCore"],
 )
