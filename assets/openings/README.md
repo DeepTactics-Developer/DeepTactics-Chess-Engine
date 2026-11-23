@@ -30,3 +30,6 @@ If you have ECO TSV files split as `a.tsv` through `e.tsv`, import them together
 python -m chess_engine import-openings --input path\to\a.tsv path\to\b.tsv path\to\c.tsv path\to\d.tsv path\to\e.tsv --output assets/openings/openings.tsv
 ```
 
+## Source
+
+Opening names and move lines derive from the public-domain (CC0 1.0) dataset `lichess-org/chess-openings`.
