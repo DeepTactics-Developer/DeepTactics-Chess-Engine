@@ -10,7 +10,7 @@
 [![C++](https://img.shields.io/badge/Core-C%2B%2B17-00599C?logo=cplusplus&logoColor=white)](chess_engine/native/native_eval.cpp)
 [![Qt](https://img.shields.io/badge/GUI-PySide6-41CD52?logo=qt&logoColor=white)](https://doc.qt.io/qtforpython-6/)
 [![Protocol](https://img.shields.io/badge/Protocol-UCI-8A2BE2)](#uci-engine)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv3-blue)](LICENSE)
 
 [**English**](README.md) &nbsp;|&nbsp; [**한국어 설명서 →**](README.ko.md)
 
@@ -128,4 +128,4 @@ The native core must be built first.
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [GNU GPL v3](LICENSE). Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).

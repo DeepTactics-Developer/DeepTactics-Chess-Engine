@@ -8,7 +8,7 @@ version = "0.9.0a1"
 description = "DeepTactics: a chess engine with a native C++ search core, a self-play weight trainer and a Qt desktop interface."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = { text = "GPL-3.0-or-later" }
 dependencies = []
 
 [project.optional-dependencies]
