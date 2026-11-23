@@ -1,0 +1,5 @@
+# No runtime dependencies are required for the engine itself.
+# GUI:
+PySide6>=6.8
+# Optional: Syzygy tablebase probing
+chess>=1.10

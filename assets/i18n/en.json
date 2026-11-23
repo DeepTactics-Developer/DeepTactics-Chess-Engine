@@ -1,0 +1,20 @@
+{
+  "tab.play": "Play",
+  "tab.analyze": "Analyze",
+  "tab.ai_match": "AI Match",
+  "tab.games": "Games",
+  "tab.openings": "Openings",
+  "tab.database": "Database",
+  "tab.setting": "Setting",
+  "settings.title": "SETTINGS",
+  "settings.general": "General",
+  "settings.engines": "Engine Management",
+  "settings.board": "Board & Pieces",
+  "settings.gameplay": "Gameplay",
+  "settings.folders": "Folders & Files",
+  "settings.analysis": "Analysis",
+  "settings.display": "Display",
+  "settings.sound": "Sound",
+  "settings.advanced": "Advanced",
+  "settings.about": "About"
+}

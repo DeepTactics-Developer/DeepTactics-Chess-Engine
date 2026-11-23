@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deeptactics"
+version = "0.9.0a1"
+description = "DeepTactics: a chess engine with a native C++ search core, a self-play weight trainer and a Qt desktop interface."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+gui = ["PySide6>=6.8"]
+tablebase = ["chess>=1.10"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+deeptactics = "chess_engine.main:main"
+
+[tool.setuptools.packages.find]
+include = ["chess_engine*"]
+exclude = ["chess_engine.tests*"]

@@ -1,0 +1,2 @@
+"""Python chess engine package."""
+

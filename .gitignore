@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+*.obj
+*.lib
+*.exp
+*.dll
+artifacts/
+config/gui_settings.json
