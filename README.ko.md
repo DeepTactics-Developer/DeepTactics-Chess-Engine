@@ -129,3 +129,5 @@ python -m unittest discover -s chess_engine/tests -t .
 ## 라이선스
 
 [GNU GPL v3](LICENSE)로 배포됩니다. 기여를 환영합니다 — [CONTRIBUTING.md](CONTRIBUTING.md)를 참고하세요.
+
+Copyright (C) 2026 DeepTactics-Developer

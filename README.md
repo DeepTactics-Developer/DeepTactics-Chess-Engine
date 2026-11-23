@@ -129,3 +129,5 @@ The native core must be built first.
 ## License
 
 Released under the [GNU GPL v3](LICENSE). Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Copyright (C) 2026 DeepTactics-Developer
