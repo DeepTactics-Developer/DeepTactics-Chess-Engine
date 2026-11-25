@@ -9,5 +9,4 @@ if getattr(sys, "frozen", False):
 from chess_engine.main import main
 
 if __name__ == "__main__":
-    sys.argv = [sys.argv[0], "--ui", "qt", *sys.argv[1:]]
     main()
